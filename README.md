@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine leaning, Deep learning.
 - 🌱 I’m currently learning NLP/ tensorflow.js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me chen.m.49@pg.com
+- 📫 How to reach me chen dot m dot 49 at pg.com
 
 <!---
 chen2mg/chen2mg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
